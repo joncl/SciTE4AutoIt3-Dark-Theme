@@ -21,7 +21,7 @@ The theme was tested interactively in SciTE4AutoIt3. Your results may vary if ot
 
 ## Screenshot
 
-A screenshot of the theme in use can be added here.
+![SciTE4AutoIt3 Dark Theme](screencap.png)
 
 ## License
 
